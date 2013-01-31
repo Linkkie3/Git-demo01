@@ -27,6 +27,7 @@ public class Dice {
 	{
 		d = new Random();
 		this.dice_max = max;
+		System.out.println(trololo);
 	}
 	
 	public Dice()
